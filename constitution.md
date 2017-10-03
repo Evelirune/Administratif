@@ -30,18 +30,18 @@ Chaque personne admise au sein de "**__La commune__**" à la possibilité de cho
 
 ## ARTICLE IV
 
-Le discord est divisé en plusieurs parties qui sont décrites ci-dessous:
+Le discord est divisé en plusieurs catégories qui sont décrites ci-dessous:
 
-* **__#annonces\_et\_administration__**: est consacrée au fonctionnement général du serveur.
-* **__#Discussions__**: Pour les débats entre membres.
-* **__#Partages__**: Pour partager des savoir entre membres et des visuels pour la propagande sur Internet.
-* **__#Salon\_non\_mixtes__**: Consacrés au débat entre concerné·e·s
-* **__#Détente__**: Dédiée au shitpost et aux jeux.
-* **__#Salons_vocaux__**: Pour les personnes en vocal n'ayant pas de micro ou pour l'utilisation du bot musique
+* **__Annonces et administration__**: est consacrée au fonctionnement général du serveur.
+* **__Discussions__**: Pour les débats entre membres.
+* **__Partages__**: Pour partager des savoir entre membres et des visuels pour la propagande sur Internet.
+* **__Salon non mixtes__**: Consacrés au débat entre concerné·e·s
+* **__Détente__**: Dédiée au shitpost et aux jeux.
+* **__Salons vocaux__**: Pour les personnes en vocal n'ayant pas de micro ou pour l'utilisation du bot musique
 
 ## ARTICLE V
 
-Il existe des salons non-mixtes, seulement les concerné.e.s peuvent y en reveandiquer l'accès. Iels doivent pour cela contacter la modération. Les salons non-mixtes sont:
+Il existe des salons non-mixtes, seulement les concerné.e.s peuvent y en revendiquer l'accès. Iels doivent pour cela contacter la modération. Les salons non-mixtes sont:
 * **__#nm_racise-e-s__** : pour les personnes victimes de racisme systémique.
 * **__#nm_feministe__** : pour toutes les personnes qui ne sont pas des hommes cisgenres.
 * **__#nm_lgbti__** : pour toutes les personnes se reconnaissant dans l’étiquette LGBT+.
@@ -54,7 +54,7 @@ Il existe des salons non-mixtes, seulement les concerné.e.s peuvent y en revean
 Le Discord doit être un espace le plus bienveillant, le moins toxique et le moins oppressif possible. Afin de respecter cet objectif, les membres sont tenus de respecter un certains nombres de règles sous peine de sanctions.
 
 Les règles suivantes s'appliquent sur l’intégralité du discord. Les membres y dérogeant de façon outrancière sur d’autres serveurs peuvent être tenus de s'expliquer :
-1. Les propos racistes, homophobes, transphobes, sexistes, validistes, le slut ou le body shaming, , le victime-blaming, le mépris de classe, l’appel ou l’apologie de la violence physique ou verbale envers des groupes dominés socialement et/ou envers d’autres membres du discord ne seront pas tolérés, y compris sous couvert d’humour. Le harcèlement moral, sexuel et l’apologie du viol sont proscrits.
+1. Les propos racistes, homophobes, transphobes, sexistes, validistes, le slut ou le body shaming, le victime-blaming, le mépris de classe, l’appel ou l’apologie de la violence physique ou verbale envers des groupes dominés socialement et/ou envers d’autres membres du discord ne seront pas tolérés, y compris sous couvert d’humour. Le harcèlement moral, sexuel et l’apologie du viol sont proscrits.
 
 2. Le combat contre l’extrême droite est l’un des objectifs de ce discord et de la gauche en général. Aussi, les discours prônant un rapprochement de l'_(extrême)_ gauche et de l’extrême droite sont prohibés, ainsi que les personnalités entretenant le flou entre les deux. Si vous avez un doute, n’hésitez pas à poser la question.
 
@@ -62,7 +62,7 @@ Les règles suivantes s'appliquent sur l’intégralité du discord. Les membres
 
 4. Le serveur rassemble des gens aux convictions très diverses. Evitez le paternalisme et / ou le mépris envers les gens dont vous ne partagez pas les opinions. Tendez toujours à la compréhension mutuelle.
 
-5. La non-mixité est un outil indispensable à l’émancipation des catégories sociales opprimées, et de fait l’existence des salons non-mixtes ne saurait être remis en cause. Toute tentative d’intrusion par des personnes non-concernées est passible de bannissement. si vous souhaitez discuter particulièrement de ces luttes, un channel existe pour cela.  
+5. La non-mixité est un outil indispensable à l’émancipation des catégories sociales opprimées, et de fait l’existence des salons non-mixtes ne saurait être remis en cause. Toute tentative d’intrusion par des personnes non-concernées est passible de bannissement. Si vous souhaitez discuter particulièrement de ces luttes, un channel existe pour cela.  
 
 6. Le serveur fonctionne de manière _(un peu)_ autogérée, ce qui signifie que chaque membre admis dispose d’un certain nombre de pouvoirs. Les personnes en abusant et donc mettant en péril l’équilibre du serveur se verront privées de leurs droits, expulsées voire bannies;
 
@@ -72,8 +72,8 @@ Les sanctions se divisent en cinq niveaux et sont appliquées en fonction de la 
 * Un simple rappel à l’ordre.
 * Une suppression du message.
 * Un passage par la salle de réflexion.
-* Suppression des droits sur la gestion du serveur
-* Une exclusion Tetemporaire.
+* Suppression des droits sur la gestion du serveur.
+* Une exclusion temporaire.
 * Une exclusion définitive.
 
 Ces sanctions seront publiées par souci de transparence.
@@ -83,9 +83,9 @@ Ces sanctions seront publiées par souci de transparence.
 ## ARTICLE VIII
 
 Les modérateur.ice.s sont ici pour réguler les rapports entre les membres. Leur but est d’accueillir les arrivant.e.s en vérifiant leur identité et d’encadrer les discussions entre les membres. L’équipe de modération est partiellement renouvelée tous les mois. Afin d’accomplir leur rôle, iels ont la possibilité de:
--Expulser ou bannir les membres enfreignant le règlement,
--Supprimer les messages abusifs ou hors-sujet
--Couper le micro et le son d’un.e membre et les déplacer dans un autre salon vocal.
+* Expulser ou bannir les membres enfreignant le règlement,
+* Supprimer les messages abusifs ou hors-sujet,
+* Couper le micro et le son d’un.e membre et les déplacer dans un autre salon vocal.
 Si vous pensez qu’un.e modérateur.ice.s abuse de ses pouvoirs, n’hésitez pas à contacter un.e autre modo ou un admin pour en parler. Si le comportement se reproduit, vous pouvez demander sa destitution.
 
 ## ARTICLE IX
