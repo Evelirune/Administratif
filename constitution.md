@@ -30,7 +30,7 @@ Chaque personne admise au sein de "**__La commune__**" à la possibilité de cho
 
 ## ARTICLE IV
 
-Le discord est divisé en plusieurs paerties qui sont décrites ci-dessous:
+Le discord est divisé en plusieurs parties qui sont décrites ci-dessous:
 
 * **__#annonces\_et\_administration__**: est consacrée au fonctionnement général du serveur.
 * **__#Discussions__**: Pour les débats entre membres.
