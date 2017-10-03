@@ -86,7 +86,8 @@ Les modérateur.ice.s sont ici pour réguler les rapports entre les membres. Leu
 * Expulser ou bannir les membres enfreignant le règlement,
 * Supprimer les messages abusifs ou hors-sujet,
 * Couper le micro et le son d’un.e membre et les déplacer dans un autre salon vocal.
-Si vous pensez qu’un.e modérateur.ice.s abuse de ses pouvoirs, n’hésitez pas à contacter un.e autre modo ou un admin pour en parler. Si le comportement se reproduit, vous pouvez demander sa destitution.
+
+Si vous pensez qu'un membre de l'administration ou des modérateur.rice.s abuse de ses pouvoirs, n’hésitez pas à contacter un.e autre modo ou un admin pour en parler. Si le comportement se reproduit, vous pouvez demander sa destitution. Si la demande est légitime, une scrutin majoritaire contraignant sera organisé.
 
 ## ARTICLE IX
 
